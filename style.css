@@ -1,0 +1,45 @@
+/* classe formatando imagem do carro*/
+.BMW {
+    border-radius: 20px;
+    width: 700px;
+  
+}
+
+/* classe formatando div com conteudo*/
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+
+}
+
+.conteudo1 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue ;
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+}
+
+.conteudo2 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue ;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    background-image: url(assets/M3.webp);
+    display: inline-block;
+
+    
+
+}
+
+.conteudo3 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue ;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    background-image: url(assets/bmwIcon.jpg);
+}
